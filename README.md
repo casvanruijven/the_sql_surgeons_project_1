@@ -131,6 +131,17 @@ This gym database is designed to manage a fitness center's operations, including
 | completed_date    | DATE           | Date when the maintenance was completed      |
 
 ## Queries
+
+| Database information                   | Query 1 | Query 2 | Query 3 | Query 4 | Query 5 | Query 6 | Query 7 | Query 8 | Query 9 | Query 10 |
+|----------------------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|----------|
+| **Multiple table join**                |    x    |    x    |    x    |    x    |    x    |    x    |         |         |         |          |
+| **Subquery**                           |         |         |         |         |         |         |         |         |         |          |
+| **Group by, Aggregation**              |    x    |    x    |         |    x    |    x    |    x    |         |         |    x    |          |
+| **Date functions**                     |         |    x    |    x    |         |         |         |         |         |         |          |
+| **Join**                               |    x    |    x    |    x    |    x    |    x    |    x    |         |         |         |          |
+| **Simple queries**                     |         |         |         |         |         |         |    x    |    x    |    x    |    x     |
+
+
 #### Query 1: Total Pending Maintenance Requests Per Equipment (Complex)
 ```{sql}
 SELECT 
