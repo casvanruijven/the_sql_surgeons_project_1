@@ -1,10 +1,10 @@
 # The Sql Surgeons Project 1
 
-Cas van Ruijven,
-Nathan Riggle,
-Max Weaver,
-Sam Holtzclaw &
-Jack Beal
+Cas van Ruijven [Cas van Ruijven](https://github.com/casvanruijven/the_sql_surgeons_project_1)\
+Nathan Riggle [Nathan Riggle](https://github.com/nathanriggle/SQL_Project1)\
+Max Weaver [Max Weaver](https://github.com/MaxWeaver7/SQL-Project-One)\
+Sam Holtzclaw [Sam Holtzclaw](https://github.com/holtzclawsam/SQL-Su)\
+Jack Beal [Jack Beal](https://github.com/Jhbeal03/MIST)
 
 ## Description
 This gym database is designed to manage a fitness center's operations, including memberships, classes, employee schedules, and equipment usage. It tracks membership payments, attendance at classes, feedback, and requests for equipment maintenance. Employees can manage classes, supervise others, and receive feedback from members. The database supports data storage related to these activities and does not handle more advanced business processes like payroll or marketing.
